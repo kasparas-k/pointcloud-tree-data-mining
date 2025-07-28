@@ -1,0 +1,4 @@
+laspy[lazrs]
+numpy
+scipy
+pandas
