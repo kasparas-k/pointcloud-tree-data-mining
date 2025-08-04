@@ -1,6 +1,8 @@
 # Point Cloud Data Mining with HD Map Priors for making Synthetic Forest Datasets
 
-This is the official repository for the paper *Point Cloud Data Mining with HD Map Priors for making Synthetic Forest Datasets*
+This is the official repository for the paper *Point Cloud Data Mining with HD Map Priors for making Synthetic Forest Datasets* 
+
+Article:  [DOI:10.1109/JSTARS.2025.3593827](https://doi.org/10.1109/JSTARS.2025.3593827)
 
 ## Table of Contents
 
@@ -42,7 +44,7 @@ The following data was used in the experiment:
 
 Links to all geoportal point clouds used in this study (with an excess of some point clouds that contain no marked trees) can also be found in this repository's [url](url) directory. In the event that the URLs no longer work, they can still be used to identify the point clouds used.
 
-Pre-extracted individual tree point clouds and individual tree location query results can also be downloaded from the study's data release (LINK COMING SOON).
+Pre-extracted individual tree point clouds, generated synthetic scenes, and individual tree location query results can also be downloaded from the study's data release [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16467712.svg)](https://doi.org/10.5281/zenodo.16467712).
 
 ### 2. Extracting candidate individual tree point clouds
 
@@ -129,10 +131,21 @@ The resulting `*.json` file can be visualized and analyzed by the user.
 
 ## Creating your own synthetic forests with pre-extracted trees
 
+Detailed guide on using your own data to create synthetic forest scenes will be added at a lated date. If shown interest, the update may be expedited.
+
 ## Citing this work
 
 If you found part of this work useful in your own research or projects, please cite the original paper:
 
 ```
-
+@ARTICLE{11103575,
+  author={Karlauskas, Kasparas and Gelšvartas, Julius and Treigys, Povilas},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Point Cloud Data Mining with HD Map Priors for making Synthetic Forest Datasets}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-12},
+  keywords={Vegetation;Point cloud compression;Forestry;Feature extraction;Data mining;Three-dimensional displays;Surveys;Pipelines;Manuals;Urban areas;LiDAR;HD map;individual tree segmentation;synthetic data},
+  doi={10.1109/JSTARS.2025.3593827}}
 ```
