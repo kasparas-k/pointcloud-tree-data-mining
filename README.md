@@ -141,11 +141,11 @@ If you found part of this work useful in your own research or projects, please c
 @ARTICLE{11103575,
   author={Karlauskas, Kasparas and Gelšvartas, Julius and Treigys, Povilas},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
-  title={Point Cloud Data Mining with HD Map Priors for making Synthetic Forest Datasets}, 
+  title={Point Cloud Data Mining With HD Map Priors for Making Synthetic Forest Datasets}, 
   year={2025},
-  volume={},
+  volume={18},
   number={},
-  pages={1-12},
-  keywords={Vegetation;Point cloud compression;Forestry;Feature extraction;Data mining;Three-dimensional displays;Surveys;Pipelines;Manuals;Urban areas;LiDAR;HD map;individual tree segmentation;synthetic data},
+  pages={19606-19617},
+  keywords={Vegetation;Point cloud compression;Forestry;Feature extraction;Data mining;Three-dimensional displays;Surveys;Pipelines;Manuals;Urban areas;HD map;individual tree segmentation (ITS);LiDAR;synthetic data},
   doi={10.1109/JSTARS.2025.3593827}}
 ```
