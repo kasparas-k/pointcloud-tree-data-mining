@@ -4,6 +4,8 @@ This is the official repository for the paper *Point Cloud Data Mining with HD M
 
 Article:  [DOI:10.1109/JSTARS.2025.3593827](https://doi.org/10.1109/JSTARS.2025.3593827)
 
+Benchmark dataset and other associated data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16467712.svg)](https://doi.org/10.5281/zenodo.16467712).
+
 ## Table of Contents
 
 - [Setup](#setup)
